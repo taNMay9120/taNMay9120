@@ -28,6 +28,14 @@ I work at the intersection of modern web and emerging tech — from shipping pro
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=taNMay9120&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![](https://raw.githubusercontent.com/taNMay9120/taNMay9120/output/github-contribution-grid-snake.svg)](https://github.com/taNMay9120)
+
+![](https://img.shields.io/badge/React-Frontend_Engineer-61DAFB?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-Typed_JS-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/WebRTC-Real--time_Streams-333333?style=flat&logo=webrtc&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA_Omniverse-Digital_Twin-76B900?style=flat&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/EY-3×_Spot_Award-FFE600?style=flat&logoColor=black)
+
 ---
 
 ### 🏅 Recognition
