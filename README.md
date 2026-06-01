@@ -26,7 +26,7 @@ I work at the intersection of modern web and emerging tech — from shipping pro
 
 ### 📊 Stats
 
-![Tanmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taNMay9120&show_icons=true&hide_border=true&count_private=true&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=taNMay9120&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
