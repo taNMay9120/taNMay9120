@@ -10,6 +10,8 @@ I work at the intersection of modern web and emerging tech — from shipping pro
 
 **Frontend** — React · TypeScript · JavaScript (ES6+) · SCSS · Tailwind · WebRTC · Micro-Frontends
 
+**Backend** — Node.js · Express · REST APIs
+
 **Testing & Quality** — Vitest · SonarQube · Lighthouse · Axios
 
 **Cloud & Tools** — Microsoft Azure · NVIDIA Omniverse · Git · CI/CD · Jira
@@ -19,6 +21,7 @@ I work at the intersection of modern web and emerging tech — from shipping pro
 ### 🚀 Things I've shipped
 
 - **Digital Twin Dashboard** — Real-time NVIDIA Omniverse integration via WebRTC; live 3D simulation data streamed into the browser with a feedback-loop UI for adjusting physics and agent behaviour
+- **DevPulse** — AI-powered developer productivity dashboard built with React 19, TypeScript, Vite, and Zustand, featuring GitHub OAuth and live activity metrics via the GitHub API ([live demo](https://dev-pulse-ashy.vercel.app/))
 - **Procurement Portal (EY)** — Migrated a legacy JS system to React + TypeScript; deployed globally to 30+ countries
 - **Mercedes-Benz Ucars 2.0** — Pixel-perfect responsive frontend with high Vitest coverage on an automotive platform
 
@@ -50,4 +53,5 @@ I work at the intersection of modern web and emerging tech — from shipping pro
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanmay_Sinha-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/tanmay-sinha-2ba095215)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-black?style=flat&logo=netlify)](https://myportfolio-tanmay.netlify.app/)
+[![DevPulse](https://img.shields.io/badge/DevPulse-Live_Demo-000000?style=flat&logo=vercel)](https://dev-pulse-ashy.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-tnmsinha65@gmail.com-D14836?style=flat&logo=gmail)](mailto:tnmsinha65@gmail.com)
