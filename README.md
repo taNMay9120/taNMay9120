@@ -10,7 +10,9 @@ I work at the intersection of modern web and emerging tech — from shipping pro
 
 **Frontend** — React · TypeScript · JavaScript (ES6+) · SCSS · Tailwind · WebRTC · Micro-Frontends
 
-**Backend** — Node.js · Express · REST APIs
+**Backend** — Node.js · Express · Python · REST APIs
+
+**Machine Learning** — Python
 
 **Testing & Quality** — Vitest · SonarQube · Lighthouse · Axios
 
@@ -20,6 +22,7 @@ I work at the intersection of modern web and emerging tech — from shipping pro
 
 ### 🚀 Things I've shipped
 
+- **GoalGPT** — AI-powered football match simulator and analysis platform built with React, Python, and Machine Learning, featuring interactive team comparisons and predictive modeling ([live demo](https://goal-gpt.vercel.app/)).
 - **Digital Twin Dashboard** — Real-time NVIDIA Omniverse integration via WebRTC; live 3D simulation data streamed into the browser with a feedback-loop UI for adjusting physics and agent behaviour
 - **DevPulse** — AI-powered developer productivity dashboard built with React 19, TypeScript, Vite, and Zustand, featuring GitHub OAuth and live activity metrics via the GitHub API ([live demo](https://dev-pulse-ashy.vercel.app/))
 - **Procurement Portal (EY)** — Migrated a legacy JS system to React + TypeScript; deployed globally to 30+ countries
